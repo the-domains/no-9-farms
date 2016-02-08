@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[No. 9 Farms]]></title>
-        <description><![CDATA[No. 9 Farms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[REGENERATIVE SUSTAINABLE FARMING]]></title>
+        <description><![CDATA[REGENERATIVE SUSTAINABLE FARMING]]></description>
+        <link>https://thegrid.ai/no-9-farms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 23:50:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 22:01:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/no-9-farms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Regenerative Sustainable Farming</p>]]></description>
-            <link>undefined0e2f543a-f92c-4ff1-a4a0-89dab8d02e18/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29dc8fcb-81ff-4479-bb5f-4f3c20c83b0f.JPG">]]></description>
+            <link>https://thegrid.ai/no-9-farms/0e2f543a-f92c-4ff1-a4a0-89dab8d02e18/index.html</link>
             <guid isPermaLink="false">0e2f543a-f92c-4ff1-a4a0-89dab8d02e18</guid>
-            <pubDate>Fri, 05 Feb 2016 23:50:11 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 22:00:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
